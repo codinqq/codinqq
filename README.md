@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Codinq!
 
 Well, this is my Github page, I guess...
-I am a hobbyist, doing coding projects in my freetime. Currently working as an apprentice in an electronics factory.
+I am a hobbyist, doing coding projects in my freetime. Currently working as an production worker in an electronics factory.
 
 ## About Me
 
-- 🔭 I’m currently working on: nothing at the moment, currently working out what I want to make next.
+- 🔭 I’m currently working on: [https://fluid.codinq.xyz/](Fluid)
 - 🌱 I’m currently learning: more about the nuxt.js ecosystem
 
 ## My Skills
@@ -23,7 +23,7 @@ I am a hobbyist, doing coding projects in my freetime. Currently working as an a
 ## Projects
 
 ### Fluid
-Fluid was a Discord bot, which included music commands, an leveling system, and ways to check statistics from different games.
+Fluid is a Discord bot, which include music commands, an leveling system, and ways to check statistics from different games.
 
 ## GitHub Stats
 
