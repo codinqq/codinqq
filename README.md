@@ -5,7 +5,7 @@ I am a hobbyist, doing coding projects in my freetime. Currently working as an p
 
 ## About Me
 
-- 🔭 I’m currently working on: [https://fluid.codinq.xyz/](Fluid)
+- 🔭 I’m currently working on: https://fluid.codinq.xyz/
 - 🌱 I’m currently learning: more about the nuxt.js ecosystem
 
 ## My Skills
